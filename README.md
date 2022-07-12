@@ -1,14 +1,8 @@
-### Hi there 👋
 
 ### Hi there 👋
 
-<!--
-**Jeanjulio96/Jeanjulio96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-+ 🤓 Systems analysis and development student.
-+ 🌱 I am looking for an internship or job.
-+ 🖥️ Currently studying Java, and HTML CSS Javascript aiming to become a Fullstack Developer.
-+ ✅ I have knowledge in: Java, JPA / Hibernate, API Rest, Spring Boot, HTML5, CSS3, Javascript, NodeJS, React, C, Git, Python, SQL.
++ 🤓 Jr Systems Analyst
++ ✅ I have knowledge in: Java, JPA / Hibernate, API Rest, Spring Boot, HTML5, CSS3, Javascript, Angular, Typescript, Git, SQL, Struts2.
 + 😎 Always looking to learn more every day.
 
 <div>
@@ -32,10 +26,10 @@
 
   <div>
      
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "jeanjulioferreira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-[LinkedIn-%230077B5?style=for-the-badge&logo](https://www.linkedin.com/in/liliane-antunes-857a75158/)]=linkedin&logoColor=white" target="_blank"></a>
+  
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
  
 
